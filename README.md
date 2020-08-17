@@ -36,4 +36,12 @@ I made the following cleaning changes during exploration of the data:
 ● Changed the ‘frisk’ & ‘arrest’ flag features from string categories to 1s and 0s 
 ● The columns were rearranged and dataframe  reindexed and saved in it’s new cleaned state. 
  
-1. Initial findings from exploratory analysis (get this from your data story and  inferential statistics reports)  1. Summary of findings  2. Visuals and statistics to support findings
+### Summary of findings 
+
+Initial Findings There was a large initial increase when the stops tracking first started, followed by steady decline over the next six months. Overall the number of stops have steadied, with a very slight increase over time. 
+ 
+White subjects make up the majority of stops in the data, however when looking at the proportion each race makes to the total, the proportion of Black race subjects is significantly larger than the demographic make up of black residents (demographic information taken from the 2010 census).  
+ 
+From an age perspective, the data suggests that Native Alaskans 36 years and older, and Black subjects17 and younger are stopped more frequently than Non-Native Alaskans & Non-Black subjects respectively. 
+ 
+Further analysis is needed to identify some of these differences. For instance, what are the predominant neighborhoods where arrests occur, and what are the demographics of those neighborhoods? How are these stops initiated? Were these called in, or were they initiated on-the-spot by an officer? For those that were initiated by an officer, what portion of those did not lead to an arrest (no probable cause for arrest)? This could identify racial bias in Terry Stops.  
